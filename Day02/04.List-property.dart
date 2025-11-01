@@ -4,11 +4,12 @@ void main(){
     var length= city.length;
     var reversed= city.reversed;
     var first =  city.first;
-  city.isEmpty;
-  city.isNotEmpty;
-  city.last;
+    var isEmpty=  city.isEmpty;
+    var isNotEmpty=  city.isNotEmpty;
 
   print(length);
   print(reversed);
   print(first);
+  print(isEmpty);
+  print(isNotEmpty);
 }
