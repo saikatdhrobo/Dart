@@ -1,4 +1,4 @@
-//always use in list/array
+//always use in list/array/set/map
 
 void main(){
   var AlphabetList = ['A','B','C','D','E','F','G'];
